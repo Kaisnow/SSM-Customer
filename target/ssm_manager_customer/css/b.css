@@ -1,0 +1,50 @@
+.header{
+    /*border: 1px solid black;*/
+    width: 100%;
+    height: 50px;
+    background-color: #f8f8f8;
+
+}
+
+.header_elem{
+    margin:13px 30px;
+    float: left;
+
+
+}
+#information{
+    /*border: 1px solid black;*/
+    width:100%;
+    height: 90px;
+    text-align: center;
+}
+#font1{
+    /*border: 1px solid black;*/
+
+    margin-top: 35px;
+}
+#mycenter
+{
+    /*background-color: white;*/
+    /* border: 1px solid black;*/
+    width: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#form1{
+    width:100%;
+    text-align: center;
+
+}
+.textdiv{
+    margin-right: 20px;
+}
+#page{
+    text-align: center;
+    margin-top: 50px;
+    /*border: 1px solid black;*/
+    height: 50px;
+    width: 100%;
+    float: right;
+}
